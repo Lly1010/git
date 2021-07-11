@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("master 分支");
         System.out.println("dev 分支");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
